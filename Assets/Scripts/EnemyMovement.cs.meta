@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 60a98cbf240add446a6b87b9272b42e3
+timeCreated: 1520938768
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heart: {fileID: 1380267653096246, guid: 801da2b8c3ef203408f2514c92445d66, type: 2}
+  - enemybullet: {fileID: 1164515637800662, guid: eec9df95a7368c5409764b4a4e4ce7a1,
+      type: 2}
+  - enemyshoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
