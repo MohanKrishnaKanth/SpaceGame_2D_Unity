@@ -1,4 +1,4 @@
-#SpaceGame_2D_Unity#
+# SpaceGame_2D_Unity
 simple shooting space game
 
 ![image](https://user-images.githubusercontent.com/45254255/99480572-585c6380-297e-11eb-9246-5b974aae7bcb.png)
